@@ -267,3 +267,5 @@ SOCIALACCOUNT_PROVIDERS = {
 # settings.py sonuna ekle
 if not DEBUG: # Sadece prodüksiyonda (Railway'de) çalışır
     SITE_ID = 1
+    
+print("Railway Staging Test: Active")
