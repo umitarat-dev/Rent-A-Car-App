@@ -1,0 +1,24 @@
+# En büyük suçlular
+venv/
+env/
+.venv/
+node_modules/
+**/node_modules/
+
+# Medya ve Görseller
+*.gif
+*.png
+*.jpg
+*.jpeg
+project_screenshot/
+backend/project_screenshot/
+
+# Veritabanı ve Geçici Dosyalar
+db.sqlite3
+*.sqlite3
+__pycache__/
+**/__pycache__/
+.DS_Store
+
+# Git
+.git/
