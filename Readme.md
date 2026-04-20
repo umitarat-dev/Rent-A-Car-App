@@ -119,7 +119,7 @@ Note: Local PostgreSQL uses default port 5432. Ensure no local conflicts.
 
 - Staging
   - Frontend: https://rent-a-car-staging-umit.vercel.app
-  - Backend: https://rent-a-car-app-staging.up.railway.app
+  - Backend: https://rent-a-car-app-staging-production.up.railway.app/
   - Neon branch: staging
   - S3 Bucket: rent-a-car-staging-bucket
 
