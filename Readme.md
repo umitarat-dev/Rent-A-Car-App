@@ -23,7 +23,7 @@ Production-style car rental app with Google OAuth, AWS S3 image management, staf
 
 <div align="center">
   <a href="https://rent-a-car-app-three.vercel.app">
-    <img src="./rent-a-car-demo-1.gif" alt="rent-a-car-demo" width="900"/>
+    <img src="./rent-a-car-demo-1.gif" alt="rent-a-car-demo" width="700"/>
   </a>
 </div>
 
