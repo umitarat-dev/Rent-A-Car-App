@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Storage-AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Hosting-Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB%20Hosting-Neon-00E599?style=flat&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/Hosting-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
